@@ -1,2 +1,36 @@
-# Library-Management-System
-A complete library management system with automated book issuing, returns, and reporting
+# Library Management System 📚
+
+A complete library management system with automated book issuing, returns, and reporting.
+
+## 🎥 Demo Videos
+
+### Book Issuing System
+![Book Issuing](Book%20issue_Borrowing%20module%20module)
+
+### Book Returns & Fines  
+![Book Returns](Returnbook-Returning%20Module)
+
+### Reports & Members
+![Reports](Reports%20and%20members%20module)
+
+## 🚀 Features
+
+- **Book Issuing** - Automated borrowing with validation
+- **Book Returns** - Automatic fine calculation
+- **Member Management** - Complete member database
+- **Reports** - 4 real-time reports
+- **Books Catalogue** - All the details of the books
+
+## 📁 Download
+
+Download the `LibrarySystem.accdb` file to run the system yourself!
+
+## 💻 Technology
+
+- MS Access Database
+- VBA Automation
+- SQL Queries
+- Professional Forms
+
+---
+*Built for efficient library management* ✨
