@@ -19,7 +19,7 @@ A complete library management system with automated book issuing, returns, and r
 - **Book Returns** - Automatic fine calculation
 - **Member Management** - Complete member database
 - **Reports** - 4 real-time reports
-- **Books Catalogue** - All the details of the books
+- **Books Catalouge** - All details about books
 
 ## 📁 Download
 
