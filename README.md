@@ -8,10 +8,10 @@ A complete library management system with automated book issuing, returns, and r
 ![Book Issuing](https://github.com/Avayana-dev/Library-Management-System/blob/main/Book%20issue_Borrowing%20module%20module.mp4)
 
 ### Book Returns & Fines  
-![Book Returns](Returnbook-Returning%20Module)
+![Book Returns](https://github.com/Avayana-dev/Library-Management-System/blob/main/Returnbook-Returning%20Module.mp4)
 
 ### Reports & Members
-![Reports](Reports%20and%20members%20module)
+![Reports](https://github.com/Avayana-dev/Library-Management-System/blob/main/Reports%20and%20members%20module.mp4)
 
 ## 🚀 Features
 
